@@ -1,0 +1,149 @@
+body {
+    background-color: #F7DED0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0; 
+    overflow-y: auto; 
+}
+
+.fixed {
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: #FFBE98;
+    padding: 10px;
+    width: 100%;
+    height: 110px;
+    z-index: 100; 
+}
+
+.kilogram{
+    position: relative;
+    font-family: "Whisper", cursive;
+    font-weight: 100px;
+    font-style: normal;
+    color: #A4907C;
+    font-size: 90px;
+    top: -80px;
+    left: 30px;
+}
+
+.fixed1 {
+    position: fixed;
+    left: 0;
+    top: 17.5%;
+    background-color: #FEECE2;
+    padding: 10px;
+    width: 22%;
+    height: 82.5%;
+    overflow-y: auto; 
+}
+
+.home{
+    position: fixed;
+    left: 1%;
+    top: 20%;
+    background-color: #E2BFB3;
+    color: #8D7B68;
+    padding: 10px;
+    width: 20%;
+    height: 11.5%;
+    font-size: 20px;
+}
+
+.search{
+    position: fixed;
+    left: 1%;
+    top: 35.5%;
+    background-color: #E2BFB3;
+    color: #8D7B68;
+    padding: 10px;
+    width: 20%;
+    height: 11.5%;
+    font-size: 20px;
+}
+
+.explore{
+    position: fixed;
+    left: 1%;
+    top: 51%;
+    background-color: #E2BFB3;
+    color: #8D7B68;
+    padding: 10px;
+    width: 20%;
+    height: 11.5%;
+    font-size: 20px;
+}
+
+.reels{
+    position: fixed;
+    left: 1%;
+    top: 67%;
+    background-color: #E2BFB3;
+    color: #8D7B68;
+    padding: 10px;
+    width: 20%;
+    height: 11.5%;
+    font-size: 20px;
+}
+
+.messages{
+    position: fixed;
+    left: 1%;
+    top: 83%;
+    background-color: #E2BFB3;
+    color: #8D7B68;
+    padding: 10px;
+    width: 20%;
+    height: 11.5%;
+    font-size: 20px;
+}
+
+.username {
+    position: relative;
+    background-color: #FEECE2;
+    color: black;
+    margin: 10px;
+    padding: 20px;
+    border: 5px solid #FFBE98;
+    font-size: 20px;
+    height: 500px;
+    width: 500px;
+    left: 500px;
+    top: 150px;
+}
+
+.photo {
+    position: relative;
+    width: 360px; 
+    height: 360px; 
+    top: 20px;
+    left: 70px;
+}
+
+h1{
+    color: black;
+    font-size: 20px;
+    font-family: cambria;
+    margin: 5px; 
+}
+
+h3{
+    position: relative;
+    color: black;
+    font-size: 20px;
+    font-family: cambria;
+    margin: 5px; 
+    top: 40px;
+    left: 5px;
+}
+
+.caption {
+    position: relative;
+    color: #4f4d4b;
+    font-size: 23px;
+    font-family: BlinkMacsystemfont;
+    margin: 5px; 
+    top: 8px;
+    left: 150px;
+}
