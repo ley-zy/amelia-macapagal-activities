@@ -1,0 +1,44 @@
+.calculator {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 580px;
+    width: 500px;
+    top: 70px;
+    left: 500px;
+    border-radius: 5%;
+    background-color: #9F8772;
+  }
+  
+.container{
+    position: relative;
+    background-color: #C8DBBE;
+    height: 90px;
+    width: 430px;
+    font-size: 80px;
+    top: -470px;
+    left: 535px;
+    text-align: right;
+    border-radius: 10px;
+  }
+
+  .flex-container > div {
+    background-color: #EDE4E0;
+    width: 92px;
+    height: 92px;
+    margin: 10px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 30px;
+    position: relative;
+    top: 60px;
+  }
+
+.flex-container .operator{
+  background-color:#665A48 ;
+}
+
+.flex-container .equal{
+  background-color:#8D2828 ;
+}
